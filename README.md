@@ -1,2 +1,2 @@
 # shivamsaraf.github.io
-My personal page.
+My personal webpage.
